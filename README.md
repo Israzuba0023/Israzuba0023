@@ -2,7 +2,7 @@
 
 **`AI Engineer | Cybersecurity Specialist | DevOps`**
 
-Me chamo Israel Cristo Manuel Cassute (Zuba), sou natural de Luanda, Angola, e sou finalista de Engenharia Informática na Universidade Óscar Ribas (UOR). Fui selecionado pelo programa **Frontier Tech Leaders (UNDP/ONU)** para especializações de elite na **NYU** e **Stanford**. Sou o fundador da **Redding Solutions** e atuo como Chefe de Departamento de IA na **TheCodeMinds**. Sou apaixonado por resolver problemas complexos através de IA e garantir a soberania digital através da Cibersegurança. Compartilho conhecimento no meu canal do YouTube "[Israzuba023](https://www.youtube.com/@Israzuba023)" e no Instagram "[@israzuba0023](https://www.instagram.com/israzuba0023/)".
+Me chamo Israel Cristo Manuel Cassute (Zuba), sou natural de Luanda, Angola, e sou Engenharia Informática e comunicação pela **Universidade Óscar Ribas (UOR)**. Fui selecionado pelo programa **Frontier Tech Leaders (UNDP/ONU)** para especializações de elite na **NYU** e **Stanford**. Sou o fundador da  **The Code Minds**. Sou apaixonado por resolver problemas complexos através de IA e garantir a soberania digital através da Cibersegurança. Compartilho conhecimento no meu canal do YouTube "[Israzuba023](https://www.youtube.com/@Israzuba023)" e no Instagram "[@israzuba0023](https://www.instagram.com/israzuba0023/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Israzuba023?sub_confirmation=1">
