@@ -1,80 +1,140 @@
-# 👨🏻‍💻 Israel Cassute (Zuba)
+<div align="center">
 
-**`AI Engineer | Cybersecurity Specialist | DevOps`**
+<img src="./assets/banner.jpg" width="100%" alt="Israel Cassute banner"/>
 
-Me chamo Israel Cristo Manuel Cassute (Zuba), sou natural de Luanda, Angola, e sou Engenharia Informática e comunicação pela **Universidade Óscar Ribas (UOR)**. Fui selecionado pelo programa **Frontier Tech Leaders (UNDP/ONU)** para especializações de elite na **NYU** e **Stanford**. Sou o fundador da  **The Code Minds**. Sou apaixonado por resolver problemas complexos através de IA e garantir a soberania digital através da Cibersegurança. Compartilho conhecimento no meu canal do YouTube "[Israzuba023](https://www.youtube.com/@Israzuba023)" e no Instagram "[@israzuba0023](https://www.instagram.com/israzuba0023/)".
+<br/>
 
-<p align="left">
-    <a href="https://www.youtube.com/@Israzuba023?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/Israzuba023?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a>
-    <a href="https://github.com/Israzuba0023?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Israzuba0023?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-    </a>
-    <a href="https://github.com/Israzuba0023?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Israzuba0023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-</p>
+# Israel Cassute (Zuba)
 
----
-
-### 🛡️ Cybersecurity & Hacker Ético
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-original.svg" width="35px" title="Kali Linux" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px" title="Linux Ubuntu/Kali" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="35px" title="macOS" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="35px" title="Windows" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="35px" title="Android" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="35px" title="ARM Architecture" style="padding-right: 10px;"/>
-</p>
-
-### 🤖 Inteligência Artificial & Ferramentas No-Code
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px" title="Python" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35px" title="TensorFlow" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="35px" title="PyTorch" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="35px" title="Jupyter / Google Colab" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="35px" title="Anaconda/LLM Studio" style="padding-right: 10px;"/>
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="30px" title="n8n Automation"/>
-</p>
-
-### 🚀 Programação & DevOps
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35px" title="Java" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px" title="C#" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35px" title="C++" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35px" title="TypeScript/Node.js" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35px" title="PHP" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35px" title="Angular" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35px" title="Docker" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="35px" title="Kubernetes" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="35px" title="Azure OpenAI" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35px" title="AWS" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35px" title="PostgreSQL / Supabase" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px" title="MySQL / SQL Server" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="35px" title="WordPress / Omeka" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35px" title="VS Code / Visual Studio / PyCharm" style="padding-right: 10px;"/>
-</p>
-
----
-
-### 📊 Estatísticas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+AI+Engineer;DevSecOps+%7C+Pentest+%7C+MLOps;Systems+Analysis+%7C+Infrastructure+Automation" alt="Typing SVG" />
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Israzuba0023&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Tecnologias" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israzuba0023&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
+  <a href="https://www.linkedin.com/in/israel-cassute" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Israzuba023?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/israzuba0023/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/israelcassute" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Israzuba0023&color=E63946&style=for-the-badge&label=Visitas+ao+perfil" alt="profile views"/>
 
----
+</div>
 
-### 🌐 Onde me encontrar
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/israel-cassute" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/israelcassute" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://web.dio.me/users/israelcristomanuel023" target="_blank"><img src="https://img.shields.io/badge/-DIO-black?style=for-the-badge"></a>
-  <a href="https://www.coursera.org/user/fcdf6ad354ce0964ec740cbabe6929b2" target="_blank"><img src="https://img.shields.io/badge/-Coursera-%230056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
-  <a href="https://app.rocketseat.com.br/me/israzuba0023" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-%237159c1?style=for-the-badge"></a>
-</p>
+Engenheiro Informático e Comunicação pela **Universidade Óscar Ribas (UÓR)**, natural de Luanda, Angola. Selecionado pelo programa **Frontier Tech Leaders (UNDP/ONU)** para especializações de elite na **NYU** e **Stanford**. Fundador da **The Code Minds**, focado em resolver problemas complexos através de IA e em garantir a soberania digital através da Cibersegurança.
+
+<br/>
+
+## 🔐 Projetos de Segurança — Provas de Trabalho
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🕵️ [Ethical Hacking Lab](https://github.com/Israzuba0023/Ethical-Hacking-DIO-Challenge)**
+
+Pentest completo contra Metasploitable2 (Kali Linux). Recon com Nmap, brute-force FTP com Medusa, PoC de acesso e plano de mitigação (Fail2Ban, SFTP/SSH).
+
+</td>
+<td width="33%" valign="top">
+
+**🦠 [Malware Analysis Lab](https://github.com/Israzuba0023/Malware-Analysis-Lab-DIO)**
+
+Simulação de ransomware (Fernet/AES) e keylogger em Python, em ambiente controlado, com disclaimer ético e evidência documentada.
+
+</td>
+<td width="33%" valign="top">
+
+**✅ [SwagLabs QA Tests](https://github.com/Israzuba0023/swaglabs-qa-tests)**
+
+Documentação de QA manual — user stories, casos de teste BDD — aplicada a um ambiente de e-commerce de teste.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certificações
+
+<div align="center">
+
+| Certificação | Instituição |
+|:---|:---|
+| 🛡️ HakyOff Certified Penetration Tester (HCPT) | HakyOff |
+| 🛡️ Penetration Testing Web | HakyOff |
+| 🔒 Cybersecurity: Developing a Program for Your Business | Kennesaw State University |
+| 🔒 Introduction to Cyber Security Specialization | New York University |
+| 🤖 Machine Learning and Artificial Intelligence | Stanford University |
+
+</div>
+
+<br/>
+
+## 🧰 Stack Técnico
+
+<div align="center">
+
+**Segurança & Redes**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+**IA & MLOps**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+**Infraestrutura & DevSecOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
+
+<details>
+<summary align="center"><b>🧩 Também trabalhei com (stack secundário)</b></summary>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+</details>
+
+<br/>
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Israzuba0023&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israzuba0023&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.demolab.com/?user=Israzuba0023&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<br/>
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://web.dio.me/users/israelcristomanuel023" target="_blank"><img src="https://img.shields.io/badge/DIO-000000?style=for-the-badge"/></a>
+<a href="https://www.coursera.org/user/fcdf6ad354ce0964ec740cbabe6929b2" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+<a href="https://app.rocketseat.com.br/me/israzuba0023" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge"/></a>
+
+</div>
