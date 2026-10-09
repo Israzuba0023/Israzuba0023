@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Israel Cassute banner"/>
+<img src="./assets/Banner_LinkedIn_Israel_Cassute.png" width="100%" alt="Israel Cassute banner"/>
 
 <br/>
 
